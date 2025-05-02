@@ -3,13 +3,13 @@
 ## Usage
 
 ```bash
-./unmaker.sh <target_folder> <command_prefix> <output_file>
+./prep.sh <target_folder> <command_prefix> <output_file>
 ```
 
 ### Example:
 
 ```bash
-./prepare.sh "./myfiles" "rm -f" "uninstall.sh"
+./prep.sh "./myfiles" "rm -f" "uninstall.sh"
 ```
 
 ## Note
