@@ -3,7 +3,7 @@
 If you're someone who downloads a bunch of stuff and is too lazy to keep track of what you installed—but then one day decides, "I want to delete this"—and suddenly you're wondering, *"What files do I even need to remove?"* … well, you're already kind of screwed.
 
 But worry no more—your savior is here.  
-(Not Jesus Christ, but a stupid simple Bash script that I totally didn't ask ChatGPT to write.)
+(Not Jesus Christ, but a stupid simple Bash script that I totally didn't ask ChatGPT to write :)
 
 ## Usage
 
