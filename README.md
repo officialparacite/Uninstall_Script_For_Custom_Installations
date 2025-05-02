@@ -24,8 +24,6 @@ rm -f "./myfiles/file1"
 rm -f "./myfiles/folder/file2"
 ```
 
-Now you have a ready-to-go uninstall script you can run (after reviewing it, of course).
-
 ## Note
 
 * This script only **lists files**, not directories.
